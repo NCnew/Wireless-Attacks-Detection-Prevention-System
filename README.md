@@ -1,9 +1,9 @@
 Wireless-Attacks-Detection-Prevention-System
 ============================================
 
-Wireless Attacks Detection Prevention System is the tools written in python which will help 
 
-1.	What is this?
+1.	What is this ?
+
 This software has been developed by Nabin kc, 2014/2015 as a Bsc Final Year Project from London Metropolitan University.
 
 2. What is it used for?
